@@ -6,7 +6,7 @@ let tentativas = 1;
 
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 900');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 2900');
 }
 
 exibirMensagemInicial();
